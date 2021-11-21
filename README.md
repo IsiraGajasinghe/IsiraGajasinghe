@@ -11,7 +11,7 @@
 
 - 💬 I am **Cyber Security Researcher, Writer**
 
-- 📫 How to reach me **isiravasitha8@tuta.io**
+- 📫 How to reach me **isiravasitha8@gmail.com**
 
 - ⚡ Fun fact **Listening to Songs**
 
