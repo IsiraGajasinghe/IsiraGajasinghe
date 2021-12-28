@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiragajasinghe" alt="isiragajasinghe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twtiv" target="blank"><img src="https://img.shields.io/twitter/follow/twtiv?logo=twitter&style=for-the-badge" alt="twtiv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imizira" target="blank"><img src="https://img.shields.io/twitter/follow/imizira?logo=twitter&style=for-the-badge" alt="imizira" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security**
 
