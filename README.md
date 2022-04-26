@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Isira Gajasinghe</h1>
-<h3 align="center">I am currently cyber security undergraduate student(3rd Year). I am looking for 'Information Security Analyst' Internship.</h3>
+<h3 align="center">I am currently cyber security undergraduate student(3rd Year). I am looking for 'Cyber Security Internship".</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiragajasinghe" alt="isiragajasinghe" /></a> </p>
 
