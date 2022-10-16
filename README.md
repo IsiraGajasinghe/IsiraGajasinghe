@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Isira Gajasinghe</h1>
-<h3 align="center">I am currently cyber security undergraduate student(3rd Year). I am looking for 'Cyber Security Internship".</h3>
+<h3 align="center">I am an Information Security Analyst ".</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiragajasinghe" alt="isiragajasinghe" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 I am **Cyber Security Researcher, Writer**
 
-- 📫 How to reach me **isiravasitha8@gmail.com**
+- 📫 How to reach me **isiragajasinghe@protonmail.com**
 
 - ⚡ Fun fact **Listening to Songs**
 
